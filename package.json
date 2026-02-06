@@ -1,0 +1,13 @@
+{
+  "name": "ai-prompt-gallery",
+  "version": "0.1.0",
+  "description": "AI Prompt Gallery backend scaffold.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
